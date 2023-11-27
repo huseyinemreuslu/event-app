@@ -11,7 +11,7 @@
   "keywords": [
     "event"
   ],
-  "author": "Gökalp Yılmaz",
+  "author": "Hüseyin Emre Uslu",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
